@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Baloo Thambi 2', cursive;
+}
+
+.bg-theme {
+  background: aqua;
+}
+
+.navbar-brand {
+    letter-spacing: 3px;
+}
+
+.custom-rowHeight {
+  height: 92vh;
+  margin-top: 8vh;
+}
+.aboutSection {
+    color: black;
+}
+
+.neu {
+  box-shadow: -3px -3px 7px #ffffff70, 3px 3px 10px rgba(94, 104, 121, 0.712);
+}
+.neu2 {
+  box-shadow: -3px -3px 7px #ffffff70, 3px 3px 10px rgba(94, 104, 121, 0.712);
+}
+
+.aboutSection,
+.portfolioSection,
+.contactSection {
+  height: 100vh;
+}
+
+.bg-contact {
+    background: indigo;
+}
+
